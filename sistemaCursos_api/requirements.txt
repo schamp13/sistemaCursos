@@ -1,0 +1,27 @@
+
+# Framework principal
+Django>=5.2,<5.3
+
+# API REST
+djangorestframework>=3.16,<3.17
+
+# Base de datos PostgreSQL
+psycopg[binary]>=3.2,<4.0
+
+# Comunicación entre Angular y Django
+django-cors-headers>=4.7,<5.0
+
+# Autenticación mediante JWT
+djangorestframework-simplejwt>=5.5,<6.0
+
+# Filtros para consultas de la API
+django-filter>=25.1,<26.0
+
+# Variables de entorno
+python-decouple>=3.8,<4.0
+
+# Manejo de imágenes
+Pillow>=11.0,<13.0
+
+# Generación de certificados PDF
+reportlab>=4.0,<5.0
